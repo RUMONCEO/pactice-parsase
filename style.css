@@ -3,4 +3,7 @@ padding:0;
 	box-sizeing:border-box;}
 html{
 	scrole-bhehavier:smoth;}
+body{
+	max-width:1200px;
+	margin:0 auto;}
 
