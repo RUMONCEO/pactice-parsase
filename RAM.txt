@@ -1,1 +1,4 @@
 sma test added 
+best pactice added file
+inline html
+commit git push and git pull
